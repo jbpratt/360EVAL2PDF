@@ -6,4 +6,8 @@
     <RootNamespace>_360eval2pdf</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="7.1.4" />
+  </ItemGroup>
+
 </Project>
